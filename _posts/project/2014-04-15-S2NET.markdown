@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "S2NET"
+description: S2Net is Social Sensor Network Opinion mining tool which provides social information regarding hot news topics.
+
+date:   2014-04-25 16:54:46
+author: Marcel Newman
+categories:
+- project
+img: portfolio_10.jpg
+thumb: default.png
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: Flat, UI, Development
+client: Wonder Corp.
+website: 
+---
+####YOUR PROJECT NAME
